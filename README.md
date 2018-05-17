@@ -14,7 +14,10 @@ To create a built version of the app,
   $ npm run build
 ```
 
-
+To additionally publish the build onto the gh-pages branch,
+```shell_session
+  $ npm run deploy
+```
 ### Dependencies
 * Node.js
 * React
